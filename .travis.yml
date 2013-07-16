@@ -9,3 +9,7 @@ notifications:
 
 env:
     - REPORT_EXIT_STATUS=1
+
+global:
+  - REPO="git@github.com:mylops/github.com/mylops/mylops.git"
+  
